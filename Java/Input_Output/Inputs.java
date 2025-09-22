@@ -1,3 +1,5 @@
+package Input_Output;
+
 import java.util.Scanner;
 
 public class Inputs {
