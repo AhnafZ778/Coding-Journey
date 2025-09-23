@@ -10,7 +10,7 @@ public class Switch_Shenanigans {
             case "Naruto" -> System.out.println("Dattebayo!!");
             case "Bleach" -> System.out.println("Bankai!!");
             case "DBZ" -> System.out.println("I will not let you destroy my WORLLLDDD!!");
-            case "One Piece" -> System.out.println("Kaizokuo da!!");
+            case "One Piece" -> System.out.println("Kaizokuoni orewa naru!!");
             default -> System.out.println("Please input on of the Big Four of Anime");
         }
     }
