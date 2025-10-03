@@ -1,3 +1,5 @@
+package OOP.something;
+
 public class Tryout {
     public static void main(String[] args) {
         student Ahnaf = new student(12, "Ahnaf", 98.5f);
@@ -5,8 +7,11 @@ public class Tryout {
         Ahnaf.meet(Tamim);
     }
 
-}
+    public static void meeting(){
+        System.out.println("Kuttar baccha daksos ken");
+    }
 
+}
 class student{
     int roll;
     String name;

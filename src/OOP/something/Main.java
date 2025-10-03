@@ -1,3 +1,5 @@
+package OOP.something;
+
 import java.util.Scanner;
 
 public class Main {
